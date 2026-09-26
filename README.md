@@ -1,6 +1,6 @@
 # zac-site
 
-Personal site for Zac Winters. Next.js + React, ready to host for free with a custom domain.
+Personal site for me. Next.js + React, ready to host for free with a custom domain.
 
 Edit copy, links, and project cards in `lib/site.ts`.
 
