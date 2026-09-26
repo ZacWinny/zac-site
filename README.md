@@ -4,6 +4,19 @@ Personal site for me. Next.js + React, ready to host for free with a custom doma
 
 Edit copy, links, and project cards in `lib/site.ts`.
 
+## Concerts
+
+The `/concerts` page reads attended shows from Setlist.fm. Copy `.env.example`
+to `.env.local` and add your Setlist.fm API key and username:
+
+```bash
+SETLISTFM_API_KEY=your_setlist_fm_api_key
+SETLISTFM_USERNAME=your_setlist_fm_username
+```
+
+Get an API key from your Setlist.fm account settings. The key is used only on
+the server and is never exposed to the browser.
+
 ## Local
 
 ```bash

@@ -50,11 +50,7 @@ export default function Home() {
         </h2>
         <p className="max-w-xl leading-7 text-zinc-600 dark:text-zinc-400">
           I work as a software engineer. This site is a home for personal
-          projects — swap the copy in{" "}
-          <code className="rounded bg-zinc-100 px-1.5 py-0.5 font-mono text-[0.9em] dark:bg-zinc-900">
-            lib/site.ts
-          </code>{" "}
-          and add your own work.
+          projects and other interests.
         </p>
         <p className="text-zinc-600 dark:text-zinc-400">
           Reach me at{" "}
